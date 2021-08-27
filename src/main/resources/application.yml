@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: personal_db
+      uri: mongodb+srv://admin:wgDaec4TODwjtHak@cluster0.hzh6u.mongodb.net/personal_db?retryWrites=true&w=majority
